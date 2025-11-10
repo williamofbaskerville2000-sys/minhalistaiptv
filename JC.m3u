@@ -11,8 +11,10 @@ https://cfp2.jw-cdn.org/a/367271/3/o/gnj_TPO_02_r720P.mp4
 https://cfp2.jw-cdn.org/a/1cfefe/2/o/gnj_TPO_03_r720P.mp4
 
 
-#EXTINF:-1 group-title="WEBCAM", 1
-https://anym3u8player.com/youtube.php/id/6911e8421a21c.m3u8
+#EXTINF:-1 group-title="WEBCAM", Porto
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762802849/ei/QegRaYOiJYKKvdIPmcOZsAs/ip/86.107.43.88/id/3QS0NMMgDNY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QPIOZE6RNJsRgBzW2vbViX_j4LPou14_ENjn_XBEZNe0F8C16h09qNdLHFfAqXhMLqNqNC0SeM/spc/6b0G_HcB-LI1RR0HncCNc2cbWMi1FkMudpKjzKemokFeLpW1ks67NpKqeJGNVe7OdTJk1QByPk8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWYqfHTitVCrBsNKqi2p3QlqTR4WnA1CCwio7vjDSzWQCIE4EKf09vgMhZ_K70S4Gi7hMjE-K2yLJlYlamfz1n4Io/file/index.m3u8
+
+
 
 # 📺 TV Generalista
 
@@ -7117,6 +7119,7 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 #EXTINF:-1 tvg-id="TNTInternational.ru@SD" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+
 
 
 
