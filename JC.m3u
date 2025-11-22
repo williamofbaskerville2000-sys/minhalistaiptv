@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-# 📺 JW BROADCASTING
+# 📺 JW BROADCASTING (PT)
 
 #EXTINF:-1 group-title="JW BROADCASTING", As Boas Novas Segundo Jesus - 1
 https://cfp2.jw-cdn.org/a/d22567/4/o/gnj_TPO_01_r720P.mp4
@@ -12,38 +12,80 @@ https://cfp2.jw-cdn.org/a/367271/3/o/gnj_TPO_02_r720P.mp4
 #EXTINF:-1 group-title="JW BROADCASTING", As Boas Novas Segundo Jesus - 3
 https://cfp2.jw-cdn.org/a/1cfefe/2/o/gnj_TPO_03_r720P.mp4
 
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/e8346e/2/o/cyw_TPO_01_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/2e2673/2/o/cyw_TPO_02_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/fe2aef/1/o/rwl_TPO_01_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/9f7212/1/o/rwl_TPO_02_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/9f03852/1/o/rwl_TPO_03_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/c73556/1/o/dns_TPO_2_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/c626398/1/o/ivtru_TPO_2_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/ff6b34/1/o/ivpro_TPO_1_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/e94d257/1/o/ivwrd_TPO_1_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/8263d8/1/o/jcm_TPO_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/19ac0e/1/o/tiy_TPO_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/a04801/1/o/jlj_TPO_01_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/aff2be/1/o/jlj_TPO_02_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/0d099de/1/o/dlf_TPO_01_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/a63ea6/3/o/dlf_TPO_02_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/8c4adfd/1/o/jjs_TPO_01_r720P.mp4
+
+#EXTINF:-1 group-title="JW BROADCASTING"
+https://cfp2.jw-cdn.org/a/98808b/2/o/jjs_TPO_02_r720P.mp4
 
 
+# 📺 JW BROADCASTING (EN)
 
+#EXTINF:-1 group-title="JW BROADCASTING (EN)", The Good News According to Jesus 1
+https://cfp2.jw-cdn.org/a/3ac0c1/7/o/gnj_E_01_r720P.mp4
 
-# 📺 WEBCAMS
+#EXTINF:-1 group-title="JW BROADCASTING (EN)", The Good News According to Jesus 2
+https://cfp2.jw-cdn.org/a/d5cc135/2/o/gnj_E_02_r720P.mp4
 
-#EXTINF:-1 group-title="WEBCAM", World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803437/ei/jeoRaYjcFJfj6dsP55vpgAw/ip/86.107.43.88/id/HfgIFGbdGJ0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RM5qFeExiwdB6n8zF6sIPskC88uIauDTF0FGV9EkS2p-NR2tbz47J9qng5Ci_3RjBs3S9gJTG2/spc/6b0G_MTFawajL7j5UiW1HljNd1JLX3dOiAtTHdG3H1P92lhBCUvMIfUGzY4JOEIr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfuulpVOvRCaGCylLrPO4pRdzHW5YSFM9VUgzCi2WFa8CIQDaiW-byhk3NYZs_wRD70KuZiqOdhpkFQdBMefihCUm4Q%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="JW BROADCASTING (EN)", The Good News According to Jesus 3
+https://cfp2.jw-cdn.org/a/5f915ea/2/o/gnj_E_03_r720P.mp4
 
-#EXTINF:-1 group-title="WEBCAM", Aquário
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803195/ei/m-kRaZKyDZmLgMMPtMnlyAs/ip/86.107.43.88/id/fe4bc4b9178d82cc/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr5---sn-4g5ednz7.googlevideo.com/cps/1/met/1762781595%2C/mh/7G/mm/31%2C26/mn/sn-4g5ednz7%2Csn-f5f7knee/ms/au%2Conr/mv/u/mvi/5/pl/24/rms/au%2Cau/hfr/1/force_finished/1/enc/1/maudio/1/gcr/ro/bui/AdEuB5T65gQScdO8wmeBbfbMAPg_PBQ0A0l24MtAWEzz09yFQgplyIksTu0OMwUboPtd5dbgGBIgN17N/spc/6b0G_OyWwDgVjy4xbbLiW-fpUEzCM1UC8ro6TaLcWCsffa_rf89Qs-fNyOA6Rssl/vprv/1/go/0/odrmc/CAEQAQ/rqh/5/mt/1762780112/fvip/4/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/13/itag/0/playlist_type/CLEAN/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cforce_finished%2Cenc%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Codrmc%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXCI5SWk4TYKqfpdBTwQKH2VAMFW8GMZNvz2CLBVEOHkCIEck5iUbpT17C4THtB3A1RIGM4iM2L4Pj9Yu8gMPYWch/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms/lsig/APaTxxMwRQIhALEhzOgAGLsczqQdIdHo9mLfLOcme6XunZ-UQP5wUdq1AiAL_zwgVAkhO_zA7F9gGE7ZLiIQDKpo87JK7g5o8wPflA%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="JW BROADCASTING (EN)"
+https://cfp2.jw-cdn.org/a/178ca30/1/o/itf_E_04_r720P.mp4
 
-#EXTINF:-1 group-title="WEBCAM", Amazónia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803310/ei/DuoRafLNH6nGi9oPtc_bqAo/ip/86.107.43.88/id/6bCyhQNauUc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RGoR5sVoQpOiaiP2gCq2pbVjm7CtiHg_RT7HKsmi2D6iH5HM2FbYUPs1JlBsGdU-5lAWoGlE0j/spc/6b0G_J46_aupWCDBZ5-_m-hqLDz-bEveScmUKITVJCM2RtJvaZuIQEYt-QJclYdC87KFbFyTwwet5A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPqvGHNb59A8W0Y7JzOg68mVTY5UJd87hRELBQZejd9xAiB7Rwj51VdfG7b0LQw8--Ueo8_6LP6tbyFODByeUG9Ypw%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="JW BROADCASTING (EN)"
+https://cfp2.jw-cdn.org/a/bbf56450/1/o/itf_E_03_r720P.mp4
 
-#EXTINF:-1 group-title="WEBCAM", Niagara
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803352/ei/OOoRaeK7Iee36dsP4sK7qAw/ip/86.107.43.88/id/gIv9J38Dax8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SrV6s_bVJKGBc7gTwfqMeU1eXfIk-7irB4TC3H0BzAxQ_YQCmlLzUCmnnOUgtBh3sS9ONrHcul/spc/6b0G_OH1qiRt7gEy1U_t3Hayon1OFBON7jWRI59hEBsIE-D0Do1Lr5YpzivzacBk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBMe-O0x94QYQu3RkI_NfATOqtC3tC4kRx4xLcRmXo5ACIEXC71PZ2ksfKLu8pjDp27j6Cozp8uQbI-8IPT3RSkap/file/index.m3u8
+#EXTINF:-1 group-title="JW BROADCASTING (EN)"
+https://cfp2.jw-cdn.org/a/b1ead8/1/o/jwb-102_E_07_r720P.mp4
 
-#EXTINF:-1 group-title="WEBCAM", Paguera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803524/ei/5OoRabzwMJmixN8PrOqXwQs/ip/86.107.43.88/id/k8irdYoV4jA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RovD6d6KfcIqgCbLBnpi1IqLQZUOkkHhtqCF-GNQxvLw7jGlEiYz4RoHkMlIOglLioK8FGNOU_/spc/6b0G_FN5ALIxYTVjxlc6EmIigqXElXpgCWMpqTKqtibFQaDok1sqNvTPATeAtVTOzbc54SpR39A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXdVHpqjkxgsxgQ9EqmYNQ-xqM6R6rNgH0hEabs-thbMCIQCKqOwLPlvYdyAMJbksjoiCxR2LA_0mYltt2Ce1xd4Xmw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="WEBCAM", Mallorca
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803598/ei/LusRaYO2CcaDvdIPjYyy4AY/ip/86.107.43.88/id/uUCJgmBWTL4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634279/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SXb3ZCkaW12zO_bVxfs3Btt19iAOqH1-XCPT2lfgs58Km4ri0fZsz6ghBI7Pdv6-bbGhYKd18K/spc/6b0G_I6iKqdBMFjbVevPD2T8rGmxMdxE4lU2zRcxgRcvvnPburxzHY1vscht_mCFf6eVHcSygZk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO4H4E15b5nH3E3b9W4gDjj1afvLRKkLCSX1injNzWAIAiEAon_rw46_wCQopi7nar6fBoxsgc3BLiVVqXo2Aite0TA%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="WEBCAM", Lisboa
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762803729/ei/sesRaYqcLZmF0u8PmcL--Ag/ip/86.107.43.88/id/wutUbaDFpvc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634280/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SCCmp0bx-ybmtok7K2BZeVOYO9gHIgfZsWZK85XbYXnHax2Qcy3o0HkAwi6goa0i72eXPNed6i/spc/6b0G_AtzjilBtXNigknnjVR1oYY4iGxyQTq1V_SnfdRjAbk0_Ntlf8GAcn_MCDafzIkBjrB90nQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNXSwHEluEUER2EZhEb3ZXPfRBdvAwl5_K71ofnO3gZMCIGRqo-JbuF8OZu3G9rCkcoF24tqeUGfDjbRT7iWxQsh0/file/index.m3u8
-
-#EXTINF:-1 group-title="WEBCAM", Porto
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762802849/ei/QegRaYOiJYKKvdIPmcOZsAs/ip/86.107.43.88/id/3QS0NMMgDNY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QPIOZE6RNJsRgBzW2vbViX_j4LPou14_ENjn_XBEZNe0F8C16h09qNdLHFfAqXhMLqNqNC0SeM/spc/6b0G_HcB-LI1RR0HncCNc2cbWMi1FkMudpKjzKemokFeLpW1ks67NpKqeJGNVe7OdTJk1QByPk8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWYqfHTitVCrBsNKqi2p3QlqTR4WnA1CCwio7vjDSzWQCIE4EKf09vgMhZ_K70S4Gi7hMjE-K2yLJlYlamfz1n4Io/file/index.m3u8
-
-
-
+#EXTINF:-1 group-title="JW BROADCASTING (EN)"
+https://cfp2.jw-cdn.org/a/763156/2/o/jwb-106_E_04_r720P.mp4
 
 
 # 📺 TV Generalista
@@ -7158,6 +7200,7 @@ https://live.zoomnews.info/live/Zoom_playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 #EXTINF:-1 tvg-id="TNTInternational.ru@SD" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment",ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+
 
 
 
